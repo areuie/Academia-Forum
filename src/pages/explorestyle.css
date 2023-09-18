@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image: url("Explore\ Page.jpg");
+}
+  #title {
+    font-family: 'Playfair Display', cursive;
+    color: white;
+    
+  }
+  
+  #desc_title {
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.2em;
+  }
+
+  #desc_body {
+    font-family: 'Roboto', cursive;
+  }
+  #welcome_box {
+    background-color: #F9F9F9;
+    opacity: 88%;
+  }
+
+  #txt_highlight {
+    color: #4D93FF;
+  }
+
+  #topics_desc {
+    font-family: 'Merriweather', sans-serif;
+    color:white;
+  }
+
